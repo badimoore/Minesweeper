@@ -1,0 +1,8 @@
+expert;Mcguyver;505.0
+medium;Kesko Keskinen;120.5
+medium;Iku-Turso;436.6
+easy;Chuck Norris;0.1
+easy;Cthulhu 2.0;17.4
+easy;Badi;20.4
+easy;Gengis Khan;40.2
+easy;Taavi;50.0
